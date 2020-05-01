@@ -4,7 +4,8 @@
   - [Typography](#typography)
     - [Fonts & Typefaces](#fonts--typefaces)
   - [Colors](#colors)
-    - [SASS / SCSS](#sass--scss)
+    - [Palette](#palette)
+    - [SASS / SCSS Variables](#sass--scss-variables)
       - [Usage](#usage)
     - [CSS Custom Properties](#css-custom-properties)
       - [Documentation](#documentation)
@@ -32,6 +33,7 @@ While the word mark is made from DIN Next LT Pro, we use the boldness of Montser
 ## Colors
 
 ### Palette
+**Note:** When using varibales, all colours are prefixed with `color-`. 
 | Name | Variable-Code | Color | Hex |
 | --- | --- | :---: | --- |
 | Royal Dark | `royal-dark` | ![royal-dark](img/color/royal-dark.svg) | #48136A |
