@@ -31,6 +31,29 @@ While the word mark is made from DIN Next LT Pro, we use the boldness of Montser
 
 ## Colors
 
+### Palette
+| Name | Variable-Code | Color | Hex |
+| --- | --- | --- | --- |
+| Royal Dark | `royal-dark` | ![royal-dark](img/color/royal-dark.svg) | #48136A |
+| Royal | `royal` | ![royal](img/color/royal.svg) | #774099 |
+| Royal Light | `royal-light` | ![royal-light](img/color/royal-light.svg) | #A86DCA |
+| Dayglow Dark | `dayglow-dark` | ![dayglow-dark](img/color/dayglow-dark.svg) | #AB0061 |
+| Dayglow | `dayglow` | ![dayglow](img/color/dayglow.svg) | #E21E8E |
+| Dayglow Light | `dayglow-light` | ![dayglow-light](img/color/dayglow-light.svg) | #FF61BE |
+| Dayglow Lightest | `dayglow-lightest` | ![dayglow-lightest](img/color/dayglow-lightest.svg) | #FFF7FC |
+| Smoky | `gray-700` | ![gray-700](img/color/gray-700.svg) | #1A1A1A |
+| Eclipse | `gray-600` | ![gray-600](img/color/gray-600.svg) | #343434 |
+| Primer | `gray-500` | ![gray-500](img/color/gray-500.svg) | #5B5B5B |
+| Granite | `gray-400` | ![gray-400](img/color/gray-400.svg) | #8E8E8E |
+| Charcoal | `gray-300` | ![gray-300](img/color/gray-300.svg) | #CBCBCB |
+| Eerie | `gray-200` | ![gray-200](img/color/gray-200.svg) | #EAEAEA |
+| Heather | `gray-100` | ![gray-100](img/color/gray-100.svg) | #F4F4F4 |
+| White | `white` | ![white](img/color/gray-100.svg) | #FFFFFF |
+
+
+
+
+
 ### SASS / SCSS
 ```
 $color-royal:       #774099;
@@ -49,6 +72,8 @@ $color-gray-400: #8E8E8E;
 $color-gray-300: #CBCBCB;  
 $color-gray-200: #EAEAEA;  
 $color-gray-100: #F4F4F4;  
+
+$color-white: #FFFFFF;
 
 $color-util-success: #1DE255;
 $color-util-warning: #E7E435;
@@ -89,6 +114,8 @@ $color-gradient: linear-gradient(135deg, $color-dayglow, $color-royal);
     --color-gray-300: #CBCBCB;
     --color-gray-200: #EAEAEA;
     --color-gray-100: #F4F4F4;
+
+    --color-white: #FFFFFF;
 
     --color-util-success: #1DE255;
     --color-util-warning: #E7E435;
