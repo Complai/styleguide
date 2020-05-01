@@ -33,7 +33,7 @@ While the word mark is made from DIN Next LT Pro, we use the boldness of Montser
 
 ### Palette
 | Name | Variable-Code | Color | Hex |
-| --- | --- | --- | --- |
+| --- | --- | :---: | --- |
 | Royal Dark | `royal-dark` | ![royal-dark](img/color/royal-dark.svg) | #48136A |
 | Royal | `royal` | ![royal](img/color/royal.svg) | #774099 |
 | Royal Light | `royal-light` | ![royal-light](img/color/royal-light.svg) | #A86DCA |
@@ -54,7 +54,7 @@ While the word mark is made from DIN Next LT Pro, we use the boldness of Montser
 
 
 
-### SASS / SCSS
+### SASS / SCSS Variables
 ```
 $color-royal:       #774099;
 $color-royal-dark:  #48136A;
