@@ -99,27 +99,27 @@ $color-gradient: linear-gradient(135deg, $color-dayglow, $color-royal);
 ```
 :root {
 
-    --color-royal:       #774099; 
-    --color-royal-dark:  #48136A;
-    --color-royal-light: #A86DCA;
+    --color-royal:            #774099; 
+    --color-royal-dark:       #48136A;
+    --color-royal-light:      #A86DCA;
 
     --color-dayglow:          #E21E8E;
     --color-dayglow-dark:     #AB0061;
     --color-dayglow-light:    #FF61BE;
     --color-dayglow-lightest: #FFF7FC;
 
-    --color-gray-600: #1A1A1A;
-    --color-gray-500: #343434;
-    --color-gray-400: #8E8E8E;
-    --color-gray-300: #CBCBCB;
-    --color-gray-200: #EAEAEA;
-    --color-gray-100: #F4F4F4;
+    --color-gray-600:         #1A1A1A;
+    --color-gray-500:         #343434;
+    --color-gray-400:         #8E8E8E;
+    --color-gray-300:         #CBCBCB;
+    --color-gray-200:         #EAEAEA;
+    --color-gray-100:         #F4F4F4;
 
-    --color-white: #FFFFFF;
+    --color-white:            #FFFFFF;
 
-    --color-util-success: #1DE255;
-    --color-util-warning: #E7E435;
-    --color-util-danger:  #E21D1D;
+    --color-util-success:     #1DE255;
+    --color-util-warning:     #E7E435;
+    --color-util-danger:      #E21D1D;
 
     --color-gradient: linear-gradient(135deg, $color-dayglow, $color-royal);
 
@@ -136,5 +136,11 @@ $color-gradient: linear-gradient(135deg, $color-dayglow, $color-royal);
 ## Grid
 
 ### Vertical Rhythm
+All elements in the vertical flow will be spaced by at least `8px` units with one exception. Typographic elements within components will often use a smaller scale, separated by `4px` spaces.
+- `4px` / `8px` / `16px` / `32px` / `48px` / `64px` / `72px` / `96px` / `120px` / `232px`
 
 ### Horizontal Rhythm
+All elements in the horizontal flow will be spaced by at least `8px` units.
+- `4px` / `8px` / `16px` / `32px` / `48px` / `64px` / `72px` / `96px` / `120px` / `232px`
+
+
