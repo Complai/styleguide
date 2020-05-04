@@ -121,7 +121,7 @@ $color-gradient: linear-gradient(135deg, $color-dayglow, $color-royal);
     --color-util-warning:     #E7E435;
     --color-util-danger:      #E21D1D;
 
-    --color-gradient: linear-gradient(135deg, $color-dayglow, $color-royal);
+    --color-gradient: linear-gradient(135deg, --color-dayglow, --color-royal);
 
 }
 ```
