@@ -89,8 +89,6 @@ $color-gradient: linear-gradient(135deg, $color-dayglow, $color-royal);
 `color: $color-gray-500`
 
 
----
-
 
 ### CSS Custom Properties
 
