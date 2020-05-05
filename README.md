@@ -178,7 +178,7 @@ All elements in the horizontal flow will be spaced by at least `8px` units.
 
 | Name | Sizes | Examples &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Styling | Notes | 
 | ---  | ---   | ---      | ---     | --- |
-| Primary Dayglow/Royal | Large | <img src="img/button/primary-lg-dayglow.svg&s=300"/> | ``` width: 300px; height: 60px; font-size: 20px; ``` | |
+| Primary Dayglow/Royal | Large | <img src="img/button/primary-lg-dayglow.svg"/> | ``` width: 300px; height: 60px; font-size: 20px; ``` | |
 | Primary Dayglow/Royal | Medium | ![Medium Primary](img/button/primary-md-royal.svg) | ``` min-width: 150px; width: auto; height: 42px; font-size: 14px;``` | |
 | Primary Dayglow/Royal | Small | ![Small Primary](img/button/primary-sm-dayglow.svg) | ``` width: auto; height: 32px; font-size: 12px; ``` | |
 | Secondary Dayglow/Royal | Large | ![Large Secondary](img/button/secondary-lg-dayglow.svg) | ``` width: 300px; height: 60px; font-size: 20px; ``` | |
