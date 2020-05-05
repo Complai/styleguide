@@ -22,6 +22,7 @@
   - [Components](#components)
     - [Buttons](#buttons)
       - [Shared Styles](#shared-styles)
+      - [Button Styles](#button-styles)
 ---
 
 
@@ -192,6 +193,7 @@ padding-left: 2.5em;
 padding-right: 2.5em;
 ```
 
+#### Button Styles
 | Name | Sizes | Examples | Styling | 
 | ---  | ---   | ---      | ---     |
 | Primary Dayglow/Royal | Large | ![Large Primary](img/button/primary-lg-dayglow.svg) | `width: 300px;` <br/> `height: 60px;` <br/> `font-size: 20px; `|
