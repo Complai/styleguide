@@ -5,7 +5,7 @@
     - [Fonts & Typefaces](#fonts--typefaces)
   - [Colors](#colors)
     - [Palette](#palette)
-    - [SASS / SCSS Variables](#sass--scss-variables)
+    - [SASS Variables](#sass--scss-variables)
       - [Usage](#usage)
     - [CSS Custom Properties](#css-custom-properties)
       - [Documentation](#documentation)
@@ -21,7 +21,16 @@ While the word mark is made from DIN Next LT Pro, we use the boldness of Montser
 
 ### Fonts & Typefaces
 
-| Typeface | Weights | Usage | Embed | Download |
+### Headings
+Headings should use **PT Sans** or **Montserrat**, Bold (`700`). 
+
+### Labels & Buttons
+Labels - like _input_ labels or _button_ labels - should use **PT Sans**, Bold (`700`). Button labels should always use _uppercase_. 
+
+
+### Typefaces
+
+| Typeface | Weights Used | Usage | Embed | Download |
 | --- | --- | --- | --- | --- |
 | PT Sans  | 400, 700 | Used for body copy. Bold, Regular. | ```<link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap" rel="stylesheet">``` | [Google Fonts](https://fonts.google.com/specimen/PT+Sans?query=PT&sidebar.open&selection.family=PT+Sans:wght@400;700) |
 | Montserrat | 400, 700 | Used for headlines. Bold, Regular, Light. | ```<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap" rel="stylesheet">``` | [Google Fonts](https://fonts.google.com/specimen/Montserrat?query=Mont&sidebar.open&selection.family=Montserrat:wght@300;400;700) |
@@ -58,7 +67,7 @@ While the word mark is made from DIN Next LT Pro, we use the boldness of Montser
 
 
 
-### SASS / SCSS Variables
+### SASS Variables
 
 #### Usage
 `color: $color-gray-500`
@@ -156,4 +165,26 @@ All elements in the vertical flow will be spaced by at least `8px` units with on
 All elements in the horizontal flow will be spaced by at least `8px` units.
 - `4px` / `8px` / `16px` / `32px` / `48px` / `64px` / `72px` / `96px` / `120px` / `232px`
 
+
+
+---
+
+
+
+## Components
+
+### Buttons
+**Note:** In most cases the _Dayglow_ version should denote a priority, where the _Royal_ version should be used for lesser priorities, or secondary primary actions.
+
+| Name | Sizes | Examples | Styling | Notes | 
+| ---  | ---   | ---      | ---     | --- |
+| Primary Dayglow/Royal | Large | ![Large Primary](img/button/primary-lg-dayglow.svg) | ``` width: 300px; height: 60px; font-size: 20px; ``` | |
+| Primary Dayglow/Royal | Medium | ![Medium Primary](img/button/primary-md-royal.svg) | ``` min-width: 150px; width: auto; height: 42px; font-size: 14px;``` | |
+| Primary Dayglow/Royal | Small | ![Small Primary](img/button/primary-sm-dayglow.svg) | ``` width: auto; height: 32px; font-size: 12px; ``` | |
+| Secondary Dayglow/Royal | Large | ![Large Secondary](img/button/secondary-lg-dayglow.svg) | ``` width: 300px; height: 60px; font-size: 20px; ``` | |
+| Secondary Dayglow/Royal | Medium | ![Medium Secondary](img/button/secondary-md-dayglow.svg) | ``` min-width: 150px; width: auto; height: 42px; font-size: 14px; ``` | |
+| Secondary Dayglow/Royal | Small | ![Small Secondary](img/button/secondary-sm-royal.svg) | ``` width: auto; height: 32px; font-size: 12px; ``` | |
+| Tertiary Dayglow/Royal | Large | ![Large Tertiary](img/button/tertiary-lg-royal.svg) | ``` width: 300px; height: 60px; font-size: 20px; ``` | |
+| Tertiary Dayglow/Royal | Medium | ![Medium Tertiary](img/button/tertiary-md-dayglow.svg) | ``` width: auto; height: 42px; font-size: 14px;``` | |
+| Tertiary Dayglow/Royal | Small | ![Small Tertiary](img/button/tertiary-sm-dayglow.svg) | ``` width: auto; height: 32px; font-size: 12px; ``` | |
 
