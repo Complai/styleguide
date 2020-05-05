@@ -176,7 +176,7 @@ All elements in the horizontal flow will be spaced by at least `8px` units.
 ### Buttons
 **Note:** In most cases the _Dayglow_ version should denote a priority, where the _Royal_ version should be used for lesser priorities, or secondary primary actions.
 
-| Name | Sizes | Examples &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Styling | 
+| Name | Sizes | Examples &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Styling | 
 | ---  | ---   | ---      | ---     |
 | Primary Dayglow/Royal | Large | ![Large Primary](img/button/pink.png) | `width: 300px;` <br/> `height: 60px;` <br/> `font-size: 20px; `|
 | Primary Dayglow/Royal | Medium | ![Medium Primary](img/button/primary-md-royal.svg) | `min-width: 150px; width: auto; height: 42px; font-size: 14px;`|
