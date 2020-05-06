@@ -2,6 +2,7 @@
 
 
 - [Shep Style Guide](#shep-style-guide)
+  - [Logos](#logos)
   - [Typography](#typography)
     - [Fonts & Typefaces](#fonts--typefaces)
     - [Headings](#headings)
@@ -25,14 +26,22 @@
       - [Button Styles](#button-styles)
 ---
 
+## Logos
+The Shep brand mark is available in six (6) color variations and two (2) orientations — stacked and horizontal.
+| Name | Logo | Resources |
+| ---  | ---  | ---  |
+| Stacked | ![Stacked Royal](img/logos/logo-stacked-royal.png) | [Stacked Royal](img/logos/logo-stacked-royal.png), [Stacked White](img/logos/logo-stacked-white.png) |
+| Horizontal | ![Horizontal Royal](img/logos/logo-horizontal-royal.png) | [Horizontal Royal](img/logos/logo-horizontal-royal.png), [Horizontal White](img/logos/logo-horizontal-royal.png) |
+| Basic (Just the Shep Head) | ![Basic Royal](img/logos/logo-basic-royal.png) | [Basic Royal](img/logos/logo-basic-royal.png), [Basic White](img/logos/logo-basic-white.png)  |
+
 
 ## Typography
-While the word mark is made from DIN Next LT Pro, we use the boldness of Montserrat for headlines (bold, regular, or light) with body copy cast in the friendliness of PT Sans, for an elegant and approachable combination that embodies our spirit. Roboto Condensed is a tall and natural application with its mechanical skeleton and geometric form.
+While the word mark is made from DIN Next LT Pro, with headings and body copy cast in the friendliness of PT Sans, for an elegant and approachable combination that embodies our spirit. Roboto Condensed is a tall and natural application with its mechanical skeleton and geometric form.
 
 ### Fonts & Typefaces
 
 ### Headings
-Headings should use **PT Sans** or **Montserrat**, Bold (`700`). 
+Headings should use **PT Sans**, Bold (`700`). 
 
 ### Labels & Buttons
 Labels - like _input_ labels or _button_ labels - should use **PT Sans**, Bold (`700`). Button labels should always use _uppercase_. 
@@ -43,7 +52,6 @@ Labels - like _input_ labels or _button_ labels - should use **PT Sans**, Bold (
 | Typeface | Weights Used | Usage | Embed | Download |
 | --- | --- | --- | --- | --- |
 | PT Sans  | 400, 700 | Used for body copy. Bold, Regular. | ```<link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap" rel="stylesheet">``` | [Google Fonts](https://fonts.google.com/specimen/PT+Sans?query=PT&sidebar.open&selection.family=PT+Sans:wght@400;700) |
-| Montserrat | 400, 700 | Used for headlines. Bold, Regular, Light. | ```<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap" rel="stylesheet">``` | [Google Fonts](https://fonts.google.com/specimen/Montserrat?query=Mont&sidebar.open&selection.family=Montserrat:wght@300;400;700) |
 | Roboto Condensed | 400, 700 | Used where headlines or body copy aren't sufficient | ```<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap" rel="stylesheet"> ``` | [Google Fonts](https://fonts.google.com/specimen/Roboto+Condensed?query=Roboto&sidebar.open&selection.family=Roboto+Condensed:wght@400;700)
 
 
