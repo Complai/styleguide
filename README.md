@@ -57,7 +57,7 @@ Labels - like _input_ labels or _button_ labels - should use **PT Sans**, Bold (
 
 
 ---
-background-image: linear-gradient(135deg, #E21E8E 0%, #48136A 100%);
+
 ## Colors
 
 ### Palette
@@ -70,7 +70,6 @@ background-image: linear-gradient(135deg, #E21E8E 0%, #48136A 100%);
 | Dayglow | ![dayglow](img/color/dayglow.svg) | `#E21E8E` | `$color-dayglow` | `--color-dayglow` |
 | Dayglow Light | ![dayglow-light](img/color/dayglow-light.svg) | `#FF61BE` | `$color-dayglow-light` | `--color-dayglow-light` |
 | Dayglow Lightest | ![dayglow-lightest](img/color/dayglow-lightest.svg) | `#FFF7FC` | `$color-dayglow-lightest` | `--color-dayglow-lightest` |
-| Royal Gradient | ![gradient](img/color/grad.svg) | `linear-gradient(135deg, $color-dayglow 0%, $color-royal-dark 100%)` | `$color-grad` | `--color-grad` |
 | Smoky | ![gray-700](img/color/gray-700.svg) | `#1A1A1A` | `$color-gray-700` | `--color-gray-700` |
 | Eclipse | ![gray-600](img/color/gray-600.svg) | `#343434` | `$color-gray-600` | `--color-gray-600` |
 | Primer | ![gray-500](img/color/gray-500.svg) | `#5B5B5B` | `$color-gray-500` | `--color-gray-500` |
@@ -82,6 +81,7 @@ background-image: linear-gradient(135deg, #E21E8E 0%, #48136A 100%);
 | Success | ![success green](img/color/util-success.svg) | `#1DE255` | `$color-util-success` | `--color-util-success` |
 | Warning | ![warning green](img/color/util-warning.svg) | `#E7E435` | `$color-util-warning` | `--color-util-warning` |
 | Danger | ![danger green](img/color/util-danger.svg) | `#E21D1D` | `$color-util-danger` | `--color-util-danger` |
+| Royal Gradient | ![gradient](img/color/grad.svg) | `linear-gradient(135deg, $color-dayglow 0%, $color-royal-dark 100%)` | `$color-grad` | `--color-grad` |
 
 
 
