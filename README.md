@@ -34,6 +34,7 @@ The Shep brand mark is available in the following color variations and two (2) o
 | Horizontal | <img src="img/logos/logo-horizontal-royal.png" height="100"> | Royal - [Low Res](img/logos/logo-horizontal-royal.png), [High Res](img/logos/logo-horizontal-royal@2x.png) <br> White - [Low Res](img/logos/logo-horizontal-royal.png), [High Res](img/logos/logo-horizontal-royal@2x.png) |
 | Basic | <img src="img/logos/logo-basic-royal.png" height="100">| Royal - [Low Res](img/logos/logo-basic-royal.png), [High Res](img/logos/logo-basic-royal@2x.png) <br> White - [Low Res](img/logos/logo-basic-white.png), [High Res](img/logos/logo-basic-white@2x.png)  |
 
+---
 
 ## Typography
 While the word mark is made from DIN Next LT Pro, with headings and body copy cast in the friendliness of PT Sans, for an elegant and approachable combination that embodies our spirit. Roboto Condensed is a tall and natural application with its mechanical skeleton and geometric form.
