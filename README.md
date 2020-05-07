@@ -30,9 +30,9 @@
 The Shep brand mark is available in six (6) color variations and two (2) orientations — stacked and horizontal.
 | Name | Logo | Resources |
 | ---  | ---  | ---  |
-| Stacked | ![Stacked Royal](img/logos/logo-stacked-royal.png) | [Stacked Royal](img/logos/logo-stacked-royal.png), [Stacked White](img/logos/logo-stacked-white.png) |
-| Horizontal | ![Horizontal Royal](img/logos/logo-horizontal-royal.png) | [Horizontal Royal](img/logos/logo-horizontal-royal.png), [Horizontal White](img/logos/logo-horizontal-royal.png) |
-| Basic (Just the Shep Head) | ![Basic Royal](img/logos/logo-basic-royal.png) | [Basic Royal](img/logos/logo-basic-royal.png), [Basic White](img/logos/logo-basic-white.png)  |
+| Stacked | ![Stacked Royal](img/logos/logo-stacked-royal.png | width=100) | Royal - [Low Res](img/logos/logo-stacked-royal.png), [High Res](img/logos/logo-stacked-royal@2x.png) <br> White - [Low Res](img/logos/logo-stacked-white.png), [High Res](img/logos/logo-stacked-white@2x.png) |
+| Horizontal | ![Horizontal Royal](img/logos/logo-horizontal-royal.png | width=100) | Royal - [Low Res](img/logos/logo-horizontal-royal.png), [High Res](img/logos/logo-horizontal-royal@2x.png) <br> White - [Low Res](img/logos/logo-horizontal-royal.png), [High Res](img/logos/logo-horizontal-royal@2x.png) |
+| Basic (Just the Shep Head) | ![Basic Royal](img/logos/logo-basic-royal.png | width=100) | Royal - [Low Res](img/logos/logo-basic-royal.png), [High Res](img/logos/logo-basic-royal@2x.png) <br> Basic White - [Low Res](img/logos/logo-basic-white.png), [High Res](img/logos/logo-basic-white@2x.png)  |
 
 
 ## Typography
