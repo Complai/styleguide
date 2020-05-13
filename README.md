@@ -10,6 +10,7 @@
     - [Typefaces](#typefaces)
   - [Colors](#colors)
     - [Palette](#palette)
+    - [Partner Colors](#partner-colors)
     - [SASS Variables](#sass-variables)
       - [Usage](#usage)
       - [List of Variables](#list-of-variables)
@@ -83,8 +84,17 @@ Labels - like _input_ labels or _button_ labels - should use **PT Sans**, Bold (
 | Danger | ![danger green](img/color/util-danger.svg) | `#E21D1D` | `$color-util-danger` | `--color-util-danger` |
 | Royal Gradient | ![gradient](img/color/grad.svg) | `linear-gradient(135deg, $color-dayglow 0%, $color-royal-dark 100%)` | `$color-grad` | `--color-grad` |
 
+### Partner Colors
+<details>
+<summary> Palette </summary>
 
-
+| Name | Color | Hex | SASS | CSS Custom Prop |
+| --- | :---: | --- | --- | --- |
+| FCM Brand | ![FCM brand blue](img/color/partner-fcm-brand.svg) | `#00457C` | `$color-fcm-brand` | `--color-fcm-brand` |
+| FCM Gradient | ![FCM brand gradient](img/color/partner-fcm-grad.svg) | `linear-gradient(135deg, rgba($color-fcm-grad,0.37) 0%, $color-fcm-grad 100%);` | `$color-fcm-grad` | `--color-fcm-grad` |
+| CT Brand | ![ct brand blue](img/color/partner-ct-brand.svg) | `#00457C` | `$color-ct-brand` | `--color-ct-brand` |
+| CT Gradient | ![ct brand gradient](img/color/partner-ct-grad.svg) | `linear-gradient(135deg, rgba($color-ct-grad,0.37) 0%, $color-ct-grad 100%);` | `$color-ct-grad` | `--color-ct-grad` |
+</details>
 
 
 ### SASS Variables
