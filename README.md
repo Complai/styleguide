@@ -1,8 +1,5 @@
 # Shep Style Guide
 
-
-- [Shep Style Guide](#shep-style-guide)
-  - [- Brand Identity 🆔](#ul-librand-identity-%f0%9f%86%94li-ul)
   - [Logos 🌀](#logos-%f0%9f%8c%80)
   - [Typography 🔤](#typography-%f0%9f%94%a4)
     - [Fonts & Typefaces](#fonts--typefaces)
@@ -245,8 +242,8 @@ In order to present an optimal experience for users on both the website and the 
 
 --- 
 
-## Brand Identity 🆔
-Colorful, bright, bold, slightly playful, but always professional. 
+## Brand Identity 🆔 
+Colorful, bright, bold, slightly playful, but always professional.   
 Use of emojis in common interface elements to help convey meaning and messaging.
 
 
