@@ -2,13 +2,14 @@
 
 
 - [Shep Style Guide](#shep-style-guide)
-  - [Logos](#logos)
-  - [Typography](#typography)
+  - [- Brand Identity 🆔](#ul-librand-identity-%f0%9f%86%94li-ul)
+  - [Logos 🌀](#logos-%f0%9f%8c%80)
+  - [Typography 🔤](#typography-%f0%9f%94%a4)
     - [Fonts & Typefaces](#fonts--typefaces)
     - [Headings](#headings)
     - [Labels & Buttons](#labels--buttons)
     - [Typefaces](#typefaces)
-  - [Colors](#colors)
+  - [Colors 🎨](#colors-%f0%9f%8e%a8)
     - [Palette](#palette)
     - [Partner Colors](#partner-colors)
     - [SASS Variables](#sass-variables)
@@ -18,18 +19,19 @@
       - [Documentation](#documentation)
       - [Usage](#usage-1)
       - [List of Variables](#list-of-variables-1)
-  - [Grid](#grid)
+  - [Grid 🛤](#grid-%f0%9f%9b%a4)
     - [Vertical Rhythm](#vertical-rhythm)
     - [Horizontal Rhythm](#horizontal-rhythm)
-  - [Components](#components)
+  - [Components 🧩](#components-%f0%9f%a7%a9)
     - [Buttons](#buttons)
       - [Shared Styles](#shared-styles)
       - [Button Styles](#button-styles)
-  - [Images & Graphics](#images--graphics)
+  - [Images & Graphics 🌄](#images--graphics-%f0%9f%8c%84)
     - [Acceptable Formats](#acceptable-formats)
+  - [Brand Identity 🆔](#brand-identity-%f0%9f%86%94)
 ---
 
-## Logos
+## Logos 🌀
 The Shep brand mark is available in the following color variations and two (2) orientations — _stacked_ and _horizontal_.
 | Name | Logo | Resources |
 | ---  | :---:  | ---  |
@@ -39,7 +41,7 @@ The Shep brand mark is available in the following color variations and two (2) o
 
 ---
 
-## Typography
+## Typography 🔤
 While the word mark is made from DIN Next LT Pro, with headings and body copy cast in the friendliness of PT Sans, for an elegant and approachable combination that embodies our spirit. Roboto Condensed is a tall and natural application with its mechanical skeleton and geometric form.
 
 ### Fonts & Typefaces
@@ -61,7 +63,7 @@ Labels - like _input_ labels or _button_ labels - should use **PT Sans**, Bold (
 
 ---
 
-## Colors
+## Colors 🎨
 
 ### Palette
 | Name | Color | Hex | SASS | CSS Custom Prop |
@@ -187,7 +189,7 @@ $color-gradient: linear-gradient(135deg, $color-dayglow, $color-royal);
 ---
 
 
-## Grid
+## Grid 🛤
 
 ### Vertical Rhythm
 All elements in the vertical flow will be spaced by at least `8px` units with one exception. Typographic elements within components will often use a smaller scale, separated by `4px` spaces.
@@ -203,7 +205,7 @@ All elements in the horizontal flow will be spaced by at least `8px` units.
 
 
 
-## Components
+## Components 🧩
 
 ### Buttons
 **Note:** In most cases the _Dayglow_ version should denote a priority, where the _Royal_ version should be used for lesser priorities, or secondary primary actions.
@@ -231,16 +233,20 @@ padding-right: 2.5em;
 
 ---
 
-## Images & Graphics
+## Images & Graphics 🌄
 In order to present an optimal experience for users on both the website and the Browser Extension, images and graphics should be optimized for both quality and size. Use the table below for the appropriate optimization tools. 
 
 ### Acceptable Formats
 
 | Type | Formats | Fallback | Notes | Optimization |
 | --- | --- | --- | --- | --- |
-| Graphics | SVG | PNG | With [94.97%](https://caniuse.com/#search=svg) browser support, and perfectly scalability SVGs should be used for all graphics, whenever possible. As a fallback, high quality PNGs should be used with `srcset` or `picture` element. | [SVGOMG](https://jakearchibald.github.io/svgomg/) | 
+| Graphics | SVG | PNG | With [94.97%](https://caniuse.com/#search=svg) browser support and their inherent scalability (they just look good anywhere! 💅🏾), SVGs should be used for all graphics, whenever possible. As a fallback, high quality PNGs should be used with `srcset` or `picture` element. | [SVGOMG](https://jakearchibald.github.io/svgomg/) | 
 | Photographs | JPG | -- | 🤷‍♂️There should rarely be a reason to use anything other than a JPG. | [TinyJPG](https://tinyjpg.com/) |
 
-
 --- 
+
+## Brand Identity 🆔
+Colorful, bright, bold, slightly playful, but always professional. 
+Use of emojis in common interface elements to help convey meaning and messaging.
+
 
