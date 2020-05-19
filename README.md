@@ -191,7 +191,39 @@ $color-gradient: linear-gradient(135deg, $color-dayglow, $color-royal);
 ---
 
 ## Icons 
-[👾 Download Shep Icon Set](https://github.com/Complai/styleguide/raw/master/img/icon/shep-icon-set.zip)
+_Last updated May 19, 2020_
+
+### Download Icon Set
+[👾 Shep Icon Set](https://github.com/Complai/styleguide/raw/master/img/icon/shep-icon-set.zip)
+
+### Sprite Usage
+1. [Download Shep Sprite](https://github.com/Complai/styleguide/raw/master/img/icon/_shep-icon-sprite.svg.zip)
+2. Unzip, then move `shep-icon-sprite.svg` to `/img` directory
+3. Add the following styles to your CSS:
+```
+svg:not(:root) {
+    overflow: hidden;
+}
+
+.icon {
+    fill: currentColor; /* allows use of `color` property to affect fill */
+    width: 1.5rem;
+    height: 1.5rem;
+
+    vertical-align: bottom;     
+
+    max-width: 100%;
+}
+```
+4. Reference individual icons like so: 
+```
+<svg class="icon">
+    <use xlink:href="path/to/shep-icon-sprite.svg#icon-name"></use>
+</svg>
+```
+
+
+### All Icons
 
 | Icon | Name | Source |
 | ---  | ---  | ---    |
