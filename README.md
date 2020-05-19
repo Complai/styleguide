@@ -1,14 +1,13 @@
 # Shep Style Guide
 
-- [Shep Style Guide](#shep-style-guide)
-  - [- Brand Identity 🆔](#ul-librand-identity-%f0%9f%86%94li-ul)
-  - [Logos 🌀](#logos-%f0%9f%8c%80)
-  - [Typography 🔤](#typography-%f0%9f%94%a4)
+## Table of Contents
+  - [Logos](#logos)
+  - [Typography](#typography)
     - [Fonts & Typefaces](#fonts--typefaces)
     - [Headings](#headings)
     - [Labels & Buttons](#labels--buttons)
     - [Typefaces](#typefaces)
-  - [Colors 🎨](#colors-%f0%9f%8e%a8)
+  - [Colors](#colors)
     - [Palette](#palette)
     - [Partner Colors](#partner-colors)
     - [SASS Variables](#sass-variables)
@@ -18,20 +17,21 @@
       - [Documentation](#documentation)
       - [Usage](#usage-1)
       - [List of Variables](#list-of-variables-1)
-  - [Icons 👾](#icons-%f0%9f%91%be)
-  - [Grid 🛤](#grid-%f0%9f%9b%a4)
+  - [Icons](#icons)
+  - [Grid](#grid)
     - [Vertical Rhythm](#vertical-rhythm)
     - [Horizontal Rhythm](#horizontal-rhythm)
-  - [Components 🧩](#components-%f0%9f%a7%a9)
+  - [Components](#components)
     - [Buttons](#buttons)
       - [Shared Styles](#shared-styles)
       - [Button Styles](#button-styles)
-  - [Images & Graphics 🌄](#images--graphics-%f0%9f%8c%84)
+  - [Images & Graphics](#images--graphics)
     - [Acceptable Formats](#acceptable-formats)
-  - [Brand Identity 🆔](#brand-identity-%f0%9f%86%94)
+  - [Brand Identity](#brand-identity)
 ---
 
-## Logos 🌀
+## Logos 
+🌀
 The Shep brand mark is available in the following color variations and two (2) orientations — _stacked_ and _horizontal_.
 | Name | Logo | Source |
 | ---  | :---:  | ---  |
@@ -41,7 +41,8 @@ The Shep brand mark is available in the following color variations and two (2) o
 
 ---
 
-## Typography 🔤
+## Typography 
+🔤
 While the word mark is made from DIN Next LT Pro, with headings and body copy cast in the friendliness of PT Sans, for an elegant and approachable combination that embodies our spirit. Roboto Condensed is a tall and natural application with its mechanical skeleton and geometric form.
 
 ### Fonts & Typefaces
@@ -63,7 +64,8 @@ Labels - like _input_ labels or _button_ labels - should use **PT Sans**, Bold (
 
 ---
 
-## Colors 🎨
+## Colors 
+🎨
 
 ### Palette
 | Name | Color | Hex | SASS | CSS Custom Prop |
@@ -188,7 +190,8 @@ $color-gradient: linear-gradient(135deg, $color-dayglow, $color-royal);
 
 ---
 
-## Icons 👾
+## Icons 
+👾
 
 | Icon | Name | Source |
 | ---  | ---  | ---    |
@@ -235,7 +238,8 @@ $color-gradient: linear-gradient(135deg, $color-dayglow, $color-royal);
 ---
 
 
-## Grid 🛤
+## Grid 
+🛤
 
 ### Vertical Rhythm
 All elements in the vertical flow will be spaced by at least `8px` units with one exception. Typographic elements within components will often use a smaller scale, separated by `4px` spaces.
@@ -251,7 +255,8 @@ All elements in the horizontal flow will be spaced by at least `8px` units.
 
 
 
-## Components 🧩
+## Components 
+🧩
 
 ### Buttons
 **Note:** In most cases the _Dayglow_ version should denote a priority, where the _Royal_ version should be used for lesser priorities, or secondary primary actions.
@@ -279,7 +284,9 @@ padding-right: 2.5em;
 
 ---
 
-## Images & Graphics 🌄
+## Images & Graphics 
+🌄
+
 In order to present an optimal experience for users on both the website and the Browser Extension, images and graphics should be optimized for both quality and size. Use the table below for the appropriate optimization tools. 
 
 ### Acceptable Formats
@@ -291,7 +298,9 @@ In order to present an optimal experience for users on both the website and the 
 
 --- 
 
-## Brand Identity 🆔 
+## Brand Identity
+🆔
+
 Colorful, bright, bold, slightly playful, but always professional.   
 Use of emojis in common interface elements to help convey meaning and messaging.
 
