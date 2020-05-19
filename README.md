@@ -191,7 +191,7 @@ $color-gradient: linear-gradient(135deg, $color-dayglow, $color-royal);
 ---
 
 ## Icons 
-👾
+[👾Download Shep Icon Set](https://github.com/Complai/styleguide/blob/master/img/icon/shep-icon-set.zip)
 
 | Icon | Name | Source |
 | ---  | ---  | ---    |
