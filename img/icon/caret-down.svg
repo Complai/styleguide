@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <polygon id="caret-down-a" points="12.5 9 25 19 0 19"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" transform="rotate(-180 12.5 14)" xlink:href="#caret-down-a"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <polygon id="back-a" points="24 11.063 6.506 11.063 14.541 3.027 12.5 1 1 12.5 12.5 24 14.527 21.973 6.506 13.938 24 13.938"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" xlink:href="#back-a"/>
+  </g>
+</svg>

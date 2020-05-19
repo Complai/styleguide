@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <path id="handle-a" d="M24,8 L1,8 L1,10.875 L24,10.875 L24,8 L24,8 Z M1,16.625 L24,16.625 L24,13.75 L1,13.75 L1,16.625 L1,16.625 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" xlink:href="#handle-a"/>
+  </g>
+</svg>

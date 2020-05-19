@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <path id="star-outline-a" d="M24,10.326 L15.7315,9.613 L12.5,2 L9.2685,9.6245 L1,10.326 L7.279,15.7655 L5.393,23.85 L12.5,19.5605 L19.607,23.85 L17.7325,15.7655 L24,10.326 L24,10.326 Z M12.5,17.41 L8.176,20.0205 L9.326,15.0985 L5.508,11.7865 L10.545,11.3495 L12.5,6.715 L14.4665,11.361 L19.5035,11.798 L15.6855,15.11 L16.8355,20.032 L12.5,17.41 L12.5,17.41 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" xlink:href="#star-outline-a"/>
+  </g>
+</svg>
