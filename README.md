@@ -1,5 +1,7 @@
 # Shep Style Guide
 
+- [Shep Style Guide](#shep-style-guide)
+  - [- Brand Identity 🆔](#ul-librand-identity-%f0%9f%86%94li-ul)
   - [Logos 🌀](#logos-%f0%9f%8c%80)
   - [Typography 🔤](#typography-%f0%9f%94%a4)
     - [Fonts & Typefaces](#fonts--typefaces)
@@ -16,6 +18,7 @@
       - [Documentation](#documentation)
       - [Usage](#usage-1)
       - [List of Variables](#list-of-variables-1)
+  - [Icons 👾](#icons-%f0%9f%91%be)
   - [Grid 🛤](#grid-%f0%9f%9b%a4)
     - [Vertical Rhythm](#vertical-rhythm)
     - [Horizontal Rhythm](#horizontal-rhythm)
