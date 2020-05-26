@@ -5,7 +5,7 @@
 ### [Colors 🎨](./colors.md)
 ### [Components 🧩](./components.md)
 ### [Grid ⌗](./grid.md)
-### [Icons 💟](./Icons.md)
+### [Icons 💟](./icons.md)
 ### [Identity 🆒](./identity.md)
 ### [Images 🌄](./images.md)
 ### [Logos 🌀](./logos.md)
