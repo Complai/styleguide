@@ -1,8 +1,8 @@
-[🔙 Home](./README.md)
+[🔙  Home](./README.md)
 
-## Colors 
+# Colors 
 
-### Palette
+## Palette
 | Name | Color | Hex | SASS | CSS Custom Prop |
 | --- | :---: | --- | --- | --- |
 | Royal Dark | ![royal-dark](img/color/royal-dark.svg) | `#48136A` | `$color-royal-dark` | `--color-royal-dark` |
@@ -25,7 +25,7 @@
 | Danger | ![danger green](img/color/util-danger.svg) | `#E21D1D` | `$color-util-danger` | `--color-util-danger` |
 | Royal Gradient | ![gradient](img/color/grad.svg) | `linear-gradient(135deg, $color-dayglow 0%, $color-royal-dark 100%)` | `$color-grad` | `--color-grad` |
 
-### Partner Colors
+## Partner Colors
 <details>
 <summary> Palette </summary>
 
@@ -38,12 +38,12 @@
 </details>
 
 
-### SASS Variables
+## SASS Variables
 
-#### Usage
+### Usage
 `color: $color-gray-500`
 
-#### List of Variables
+### List of Variables
 <details>
 <summary> SASS / SCSS Variables Snippet </summary>
 
@@ -78,16 +78,16 @@ $color-gradient: linear-gradient(135deg, $color-dayglow, $color-royal);
 </details>
 
 
-### CSS Custom Properties
+## CSS Custom Properties
 
-#### Documentation
+### Documentation
 - [Can I Use - CSS Custom Properties](https://caniuse.com/#search=custom%20properties)    
 - [Mozilla - Custom Properties CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/--*)
 
-#### Usage
+### Usage
 `color: var(--color-gray-500)`
   
-#### List of Variables
+### List of Variables
 <details> 
 <summary> Custom Properties Variables Snippet </summary>
 
@@ -122,5 +122,3 @@ $color-gradient: linear-gradient(135deg, $color-dayglow, $color-royal);
 ```
 </details>
 
-
----

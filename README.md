@@ -1,45 +1,17 @@
 # Shep Style Guide
 
-- [Shep Style Guide](#shep-style-guide)
-  - [Logos](#logos)
-  - [Typography](#typography)
-    - [Fonts & Typefaces](#fonts--typefaces)
-    - [Headings](#headings)
-    - [Labels & Buttons](#labels--buttons)
-    - [Typefaces](#typefaces)
-  - [Colors](#colors)
-    - [Palette](#palette)
-    - [Partner Colors](#partner-colors)
-    - [SASS Variables](#sass-variables)
-      - [Usage](#usage)
-      - [List of Variables](#list-of-variables)
-    - [CSS Custom Properties](#css-custom-properties)
-      - [Documentation](#documentation)
-      - [Usage](#usage-1)
-      - [List of Variables](#list-of-variables-1)
-  - [Icons](#icons)
-    - [Download Icon Set](#download-icon-set)
-    - [Sprite Usage](#sprite-usage)
-    - [All Icons](#all-icons)
-  - [Grid](#grid)
-    - [Vertical Rhythm](#vertical-rhythm)
-    - [Horizontal Rhythm](#horizontal-rhythm)
-  - [Components](#components)
-    - [Buttons](#buttons)
-      - [Shared Styles](#shared-styles)
-      - [Button Styles](#button-styles)
-  - [Images & Graphics](#images--graphics)
-    - [Acceptable Formats](#acceptable-formats)
-  - [Brand Identity](#brand-identity)
-    - [General](#general)
-    - [Written Content](#written-content)
-      - [Buttons](#buttons-1)
-      - [Titles, Headings & Subheadings](#titles-headings--subheadings)
-      - [Navigation Links](#navigation-links)
-      - [Checkboxes & Radio Buttons](#checkboxes--radio-buttons)
-      - [Links](#links)
----
+## Table of Contents
 
+### [Colors 🎨](./colors.md)
+### [Components 🧩](./components.md)
+### [Grid ⌗](./grid.md)
+### [Icons 💟](./Icons.md)
+### [Identity 🆒](./identity.md)
+### [Images 🌄](./images.md)
+### [Logos 🌀](./logos.md)
+### [Typography 💤](./typography.md)
+
+<!-- 
 ## Logos 
 
 The Shep brand mark is available in the following color variations and two (2) orientations — _stacked_ and _horizontal_.
@@ -391,4 +363,4 @@ _Most content in this section was adapted from the [Mailchimp Styleguide](https:
 
 
 
-
+ -->
