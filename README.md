@@ -1,6 +1,6 @@
 # Shep Style Guide
 
-## Table of Contents
+- [Shep Style Guide](#shep-style-guide)
   - [Logos](#logos)
   - [Typography](#typography)
     - [Fonts & Typefaces](#fonts--typefaces)
@@ -18,6 +18,9 @@
       - [Usage](#usage-1)
       - [List of Variables](#list-of-variables-1)
   - [Icons](#icons)
+    - [Download Icon Set](#download-icon-set)
+    - [Sprite Usage](#sprite-usage)
+    - [All Icons](#all-icons)
   - [Grid](#grid)
     - [Vertical Rhythm](#vertical-rhythm)
     - [Horizontal Rhythm](#horizontal-rhythm)
@@ -28,10 +31,17 @@
   - [Images & Graphics](#images--graphics)
     - [Acceptable Formats](#acceptable-formats)
   - [Brand Identity](#brand-identity)
+    - [General](#general)
+    - [Written Content](#written-content)
+      - [Buttons](#buttons-1)
+      - [Titles, Headings & Subheadings](#titles-headings--subheadings)
+      - [Navigation Links](#navigation-links)
+      - [Checkboxes & Radio Buttons](#checkboxes--radio-buttons)
+      - [Links](#links)
 ---
 
 ## Logos 
-🌀
+
 The Shep brand mark is available in the following color variations and two (2) orientations — _stacked_ and _horizontal_.
 | Name | Logo | Source |
 | ---  | :---:  | ---  |
@@ -42,7 +52,7 @@ The Shep brand mark is available in the following color variations and two (2) o
 ---
 
 ## Typography 
-🔤
+
 While the word mark is made from DIN Next LT Pro, with headings and body copy cast in the friendliness of PT Sans, for an elegant and approachable combination that embodies our spirit. Roboto Condensed is a tall and natural application with its mechanical skeleton and geometric form.
 
 ### Fonts & Typefaces
@@ -65,7 +75,6 @@ Labels - like _input_ labels or _button_ labels - should use **PT Sans**, Bold (
 ---
 
 ## Colors 
-🎨
 
 ### Palette
 | Name | Color | Hex | SASS | CSS Custom Prop |
@@ -271,7 +280,6 @@ svg:not(:root) {
 
 
 ## Grid 
-🛤
 
 ### Vertical Rhythm
 All elements in the vertical flow will be spaced by at least `8px` units with one exception. Typographic elements within components will often use a smaller scale, separated by `4px` spaces.
@@ -280,15 +288,12 @@ All elements in the vertical flow will be spaced by at least `8px` units with on
 ### Horizontal Rhythm
 All elements in the horizontal flow will be spaced by at least `8px` units.
 - `4px` / `8px` / `16px` / `32px` / `48px` / `64px` / `72px` / `96px` / `120px` / `232px`
-
-
+- 
 
 ---
 
 
-
 ## Components 
-🧩
 
 ### Buttons
 **Note:** In most cases the _Dayglow_ version should denote a priority, where the _Royal_ version should be used for lesser priorities, or secondary primary actions.
@@ -317,7 +322,6 @@ padding-right: 2.5em;
 ---
 
 ## Images & Graphics 
-🌄
 
 In order to present an optimal experience for users on both the website and the Browser Extension, images and graphics should be optimized for both quality and size. Use the table below for the appropriate optimization tools. 
 
@@ -325,15 +329,66 @@ In order to present an optimal experience for users on both the website and the 
 
 | Type | Formats | Fallback | Notes | Optimization |
 | --- | --- | --- | --- | --- |
-| Graphics | SVG | PNG | With [94.97%](https://caniuse.com/#search=svg) browser support and their inherent scalability (they just look good anywhere! 💅🏾), SVGs should be used for all graphics, whenever possible. As a fallback, high quality PNGs should be used with `srcset` or `picture` element. | [SVGOMG](https://jakearchibald.github.io/svgomg/) | 
-| Photographs | JPG | -- | 🤷‍♂️There should rarely be a reason to use anything other than a JPG. | [TinyJPG](https://tinyjpg.com/) |
+| Graphics | SVG | PNG | With [94.97%](https://caniuse.com/#search=svg) browser support and their inherent scalability (they just look good anywhere!), SVGs should be used for all graphics, whenever possible. As a fallback, high quality PNGs should be used with `srcset` or `picture` element. | [SVGOMG](https://jakearchibald.github.io/svgomg/) | 
+| Photographs | JPG | -- | There should rarely be a reason to use anything other than a JPG. | [TinyJPG](https://tinyjpg.com/) |
 
 --- 
 
 ## Brand Identity
-🆔
 
-Colorful, bright, bold, slightly playful, but always professional.   
-Use of emojis in common interface elements to help convey meaning and messaging.
+### General
+- Colorful, bright, bold, slightly playful, but always professional.   
+- Use of emojis in common interface elements to help convey meaning and messaging.  
+From Mailchimp's Styleguide: 
+    > Emoji are a fun way to add humor and visual interest to your writing, but use them infrequently and deliberately.
+
+
+### Written Content
+
+#### Buttons
+Buttons should always contain actions. The language should be clear and concise. All button text should be uppercase.
+
+#### Titles, Headings & Subheadings
+Headings and subheadings organize content for readers. Be generous and descriptive.
+
+Headings (H1) give people a taste of what they’re about to read. Use them for page and blog titles.
+
+Subheadings (H2, H3, etc.) break articles into smaller, more specific sections. They give readers avenues into your content and make it more scannable.
+
+Headings and subheadings should be organized in a hierarchy, with heading first, followed by subheadings in order. (An H2 will nestle under H1, an H3 under H2, and on down.)
+
+Include the most relevant keywords in your headings and subheadings, and make sure you cover the main point of the content.
+
+Use title case, unless the title/heading/subheading is a punctuated sentence. If the heading is a punctuated sentence, use sentence case.
+
+#### Navigation Links
+Use title case for main or global navigation. Use sentence case for subnavigation.
+
+Navigation links should be clear and concise.
+
+#### Checkboxes & Radio Buttons
+Use title case for headings and sentence case for button and checkbox fields.
+
+#### Links
+Provide a link whenever you’re referring to something on an external website. Use links to point users to relevant content and trusted external resources.
+
+Don’t include preceding articles (a, an, the, our) when you link text. For example:
+
+- Yes: Read the [automation guide]() for details.
+- No: Read [the automation guide]() for details.
+
+If a link comes at the end of a sentence or before a comma, don’t link the punctuation mark.
+
+Don’t say things like “Click here!” or “Click for more information” or “Read this.” Write the sentence as you normally would, and link relevant keywords.
+
+Links should look different than regular copy, strong text, or emphasis text. They should have a hover state that communicates they’re interactive, and should have a distinct active and visited state. When setting the hover state of links, be sure to include focus state as well, to help readers using assistive technologies and touch devices.
+
+<br>
+
+
+
+_Most content in this section was adapted from the [Mailchimp Styleguide](https://styleguide.mailchimp.com/web-elements/)_
+
+
 
 
