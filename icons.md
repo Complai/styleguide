@@ -1,8 +1,7 @@
 # Icons 
 _Last updated May 19, 2020_
 
-## Download Icon Set
-[👾 Shep Icon Set](https://github.com/Complai/styleguide/raw/master/img/icon/shep-icon-set.zip)
+[👾 Download the Shep Icon Set](https://github.com/Complai/styleguide/raw/master/img/icon/shep-icon-set.zip)
 
 ## Sprite Usage
 1. [Download Shep Sprite](https://github.com/Complai/styleguide/raw/master/img/icon/_shep-icon-sprite.svg.zip)
@@ -14,7 +13,7 @@ svg:not(:root) {
 }
 
 .icon {
-    fill: currentColor; /* allows use of `color` property to affect fill */
+    fill: currentColor; /* allows use of `color` property to affect fill so long as the `fill` property is removed from the SVG */
     width: 1.5rem;
     height: 1.5rem;
 
