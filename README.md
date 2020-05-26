@@ -1,7 +1,5 @@
 # Shep Style Guide
 
-## Table of Contents
-
 ### [Colors 🎨](./colors.md)
 ### [Components 🧩](./components.md)
 ### [Grid ⌗](./grid.md)
