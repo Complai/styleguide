@@ -56,7 +56,7 @@ svg:not(:root) {
 | ![](img/icon/edit.svg) | `icon-edit` | [SVG](img/icon/edit.svg) |
 | ![](img/icon/fitness.svg) | `icon-fitness` | [SVG](img/icon/fitness.svg) |
 | ![](img/icon/forward.svg) | `icon-forward` | [SVG](img/icon/forward.svg) |
-| ![](img/icon/groups.svg) | `icon-groups` | [SVG](img/icon/groups.svg) |
+| ![](img/icon/group.svg) | `icon-group` | [SVG](img/icon/group.svg) |
 | ![](img/icon/handle.svg) | `icon-handle` | [SVG](img/icon/handle.svg) |
 | ![](img/icon/images.svg) | `icon-images` | [SVG](img/icon/images.svg) |
 | ![](img/icon/info.svg) | `icon-info` | [SVG](img/icon/info.svg) |
