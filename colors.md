@@ -8,6 +8,7 @@
 | Royal Dark | ![royal-dark](img/color/royal-dark.svg) | `#48136A` | `$color-royal-dark` | `--color-royal-dark` |
 | Royal | ![royal](img/color/royal.svg) | `#774099` | `$color-royal` | `--color-royal` |
 | Royal Light | ![royal-light](img/color/royal-light.svg) | `#A86DCA` | `$color-royal-light` | `--color-royal-light` |
+| Royal Lightest | ![royal-lightest](img/color/royal-lightest.svg) | `#EAC8FD` | `$color-royal-lightest` | `--color-royal-lightest` |
 | Dayglow Dark | ![dayglow-dark](img/color/dayglow-dark.svg) | `#AB0061` | `$color-dayglow-dark` | `--color-dayglow-dark` |
 | Dayglow | ![dayglow](img/color/dayglow.svg) | `#E21E8E` | `$color-dayglow` | `--color-dayglow` |
 | Dayglow Light | ![dayglow-light](img/color/dayglow-light.svg) | `#FF61BE` | `$color-dayglow-light` | `--color-dayglow-light` |
@@ -24,6 +25,10 @@
 | Warning | ![warning green](img/color/util-warning.svg) | `#E7E435` | `$color-util-warning` | `--color-util-warning` |
 | Danger | ![danger green](img/color/util-danger.svg) | `#E21D1D` | `$color-util-danger` | `--color-util-danger` |
 | Royal Gradient | ![gradient](img/color/grad.svg) | `linear-gradient(135deg, $color-dayglow 0%, $color-royal-dark 100%)` | `$color-grad` | `--color-grad` |
+
+## Color Themes
+![light theme](img/color/theme-light.svg)
+![dark theme](img/color/theme-dark.svg)
 
 ## Partner Colors
 <details>
