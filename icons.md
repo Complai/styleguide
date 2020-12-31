@@ -1,5 +1,5 @@
 # Icons 
-_Last updated May 19, 2020_
+_Last updated Dec 31, 2020_
 
 [👾 Download the Shep Icon Set](https://github.com/Complai/styleguide/raw/master/img/icon/shep-icon-set.zip)
 
@@ -88,3 +88,6 @@ svg:not(:root) {
 | ![](img/icon/wifi.svg) | `icon-wifi` | [SVG](img/icon/wifi.svg) |
 | ![](img/icon/workstation.svg) | `icon-workstation` | [SVG](img/icon/workstation.svg) |
 
+
+## Notes
+Sprites generated via [svg spreact](https://svgsprit.es/)
